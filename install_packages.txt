@@ -1,0 +1,11 @@
+flask
+flask_moment
+pandas
+pytube
+moviepy
+pydub
+librosa
+keras
+tensorflow
+matplotlib
+seaborn
